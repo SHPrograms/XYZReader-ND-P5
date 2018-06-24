@@ -23,4 +23,6 @@
     <color name="theme_accent">#04561A</color>
     <color name="theme_inverse">#004D40</color>
     <color name="ltgray">#152014</color>
+    <color name="text_background">#425396</color>
+    <color name="background_fragment_coordinator_layout">#ffffff</color>
 </resources>
