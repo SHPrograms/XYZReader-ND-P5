@@ -1,8 +1,11 @@
 # XYZ Reader
+
 Part of the Android Developer Nanodegree Program.
 
 ## Purporse 
+
 How to use Material Design
 
 ## Starter code 
+
 https://github.com/udacity/xyz-reader-starter-code
